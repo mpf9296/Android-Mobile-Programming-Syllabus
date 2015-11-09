@@ -10,8 +10,10 @@ These are the repositories we've been working on during the course. Use them as 
 3. [Assigment_NewNote][newNote]: shows how to create and query a database with ListViews. It also proposes an assigment to create a new note.
 4. [Assigment_EditNote][editNote]: Solves the previous assigment and proposes a new one to edit an existing note
 5. [Assigment_DeleteNote][deleteNote]: Solves the previous assigment and proposes a new one to delete an existing note
+6. [DeleteMultipleNotes][deleteMultiple]: User can select multiple notes and then delete all notes at once. 
 6. [Sun Shine APP][weather]: An example from a Udacity course given directly by Google engineers that shows how to get data from a RESTful API on the web. It stores the data to a local database. It uses HTTP calls directly using the Java API. In this App is also interesting (among others) to see how we can have different layouts for list items of a ListView depending on their position.
 7. [VolleyAccessRest][volley]: Volley is a library provides access to internet. It deals with HTTP calls and makes the queries to RESTful APIs in a thread. It actually provides a pool of threads that concurrently performs internet calls. It also provides a caching for the received data. 
+8. [AlarmNotification][alarmNotification]: it allows the user to program alarms for the notes. When the alarm is fired a notification is given to the user. It contains the tile of the note. All alarms are stored in the database. When the mobile is switched off and then booted the alarms are set again.
 
 <!-- links -->
 [noteOne]: https://github.com/TecnocampusMobils/NoteOne
@@ -21,6 +23,8 @@ These are the repositories we've been working on during the course. Use them as 
 [deleteNote]: https://github.com/TecnocampusMobils/Assigment_DeleteNote
 [weather]: https://github.com/udacity/Sunshine-Version-2
 [volley]: https://github.com/TecnocampusMobils/VolleyAccessREST
+[deleteMultiple]: https://github.com/TecnocampusMobils/DeleteMultipleNotes
+[alarmNotification]: https://github.com/TecnocampusMobils/AlarmNotification
 
 ## Com usarem el GitHub
 
