@@ -2,6 +2,26 @@
 
 Aquest serà el lloc oficial a GitHub de l'assignatura on podreu trobar explicacions i especialment el codi a usar. En cada moment us aniré explicant quin codi i/o repositori heu d'usar i quins són els lliuraments
 
+## List of Example Repositories
+These are the repositories we've been working on during the course. Use them as example
+
+1. [NoteOne][noteOne]: APP for storing notes in a local database. It shows how to use Adapters (Array adapter) in order to populate a list with tons of items
+2. [BBDD_1][bbdd1]: shows how to deal with BBDD in android using SQLite. It uses CursorLoader to query the db in a new thread different from the main one
+3. [Assigment_NewNote][newNote]: shows how to create and query a database with ListViews. It also proposes an assigment to create a new note.
+4. [Assigment_EditNote][editNote]: Solves the previous assigment and proposes a new one to edit an existing note
+5. [Assigment_DeleteNote][deleteNote]: Solves the previous assigment and proposes a new one to delete an existing note
+6. [Sun Shine APP][weather]: An example from a Udacity course given directly by Google engineers that shows how to get data from a RESTful API on the web. It stores the data to a local database. It uses HTTP calls directly using the Java API. In this App is also interesting (among others) to see how we can have different layouts for list items of a ListView depending on their position.
+7. [Volley library][volley]: this library provides access to internet. It deals with HTTP calls and makes the queries to RESTful APIs in a thread. It actually provides a pool of threads that concurrently performs internet calls. It also provides a caching for the received data. 
+
+<!-- links -->
+[noteOne]: https://github.com/TecnocampusMobils/NoteOne
+[bbdd1]: https://github.com/TecnocampusMobils/BBDD_1
+[newNote]: https://github.com/TecnocampusMobils/Assigment_NewNote
+[editNote]: https://github.com/TecnocampusMobils/Assigment_EditNote
+[deleteNote]: https://github.com/TecnocampusMobils/Assigment_DeleteNote
+[weather]: https://github.com/udacity/Sunshine-Version-2
+[volley]: https://github.com/TecnocampusMobils/VolleyAccessREST
+
 ## Com usarem el GitHub
 
 Haureu de seguir les indicacions aquí exposades per cada *lliurament* i repositori indicat:
