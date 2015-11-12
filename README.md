@@ -30,7 +30,7 @@ These are the repositories we've been working on during the course. Use them as 
 [alarmNotification]: https://github.com/TecnocampusMobils/AlarmNotification
 [accelerationLocation]: https://github.com/TecnocampusMobils/SaveAccelerationLocation
 [sensorlist]: https://github.com/TecnocampusMobils/SensorList
-[androidStep] : https://github.com/TecnocampusMobils/android-step-sensors
+[androidStep]: https://github.com/TecnocampusMobils/android-step-sensors
 
 
 
