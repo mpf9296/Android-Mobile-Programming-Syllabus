@@ -17,7 +17,7 @@ These are the repositories we've been working on during the course. Use them as 
 9. [SaveAccelerationLocation][accelerationLocation]: it saves the device acceleration and location values in a file in time spans of 1 second. It uses the device sensors for the accelerometer and the Google Play Services for the location.
 10. [SensorList][sensorlist]: it is a very simple app that list all the sensors privided by the device. Some of them are physical and others are software synthesised.
 11. [Android-step-sensors][androidStep]: is a example of sofware sensors that counts the walking steps made by the device user
-12. [Material design][materialDesign]: an example of using Material Design and its animations
+12. [android-material-travellist][materialDesign]: an example of using Material Design and its animations
 
 <!-- links -->
 [noteOne]: https://github.com/TecnocampusMobils/NoteOne
