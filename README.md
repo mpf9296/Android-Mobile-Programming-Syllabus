@@ -13,10 +13,10 @@ These are the repositories we've been working on during the course. Use them as 
 6. [DeleteMultipleNotes][deleteMultiple]: User can select multiple notes and then delete all notes at once. Solves the previous assigment
 6. [Sun Shine APP][weather]: An example from a Udacity course given directly by Google engineers that shows how to get data from a RESTful API on the web. It stores the data to a local database. It uses HTTP calls directly using the Java API. In this App is also interesting (among others) to see how we can have different layouts for list items of a ListView depending on their position.
 7. [VolleyAccessRest][volley]: Volley is a library provides access to internet. It deals with HTTP calls and makes the queries to RESTful APIs in a thread. It actually provides a pool of threads that concurrently performs internet calls. It also provides a caching for the received data. 
-8. [AlarmNotification][alarmNotification]: it allows the user to program alarms for the notes. When the alarm is fired a notification is given to the user. It contains the tile of the note. All alarms are stored in the database. When the mobile is switched off and then booted the alarms are set again.
+8. [AlarmNotification][alarmNotification]: it allows the user to program alarms for the notes. When the alarm is fired a notification is given to the user. It contains the title of the note. All alarms are stored in the database. When the mobile is switched off and then booted the alarms are set again.
 9. [SaveAccelerationLocation][accelerationLocation]: it saves the device acceleration and location values in a file in time spans of 1 second. It uses the device sensors for the accelerometer and the Google Play Services for the location.
 10. [SensorList][sensorlist]: it is a very simple app that list all the sensors privided by the device. Some of them are physical and others are software synthesised.
-11. [Android-step-sensors][androidStep]: is a example of sofware sensors that counts the walking steps made by the device user
+11. [Android-step-sensors][androidStep]: is an example of sofware sensors that counts the walking steps made by the device user
 12. [android-material-travellist][materialDesign]: an example of using Material Design and its animations
 
 <!-- links -->
